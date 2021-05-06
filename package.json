@@ -1,0 +1,18 @@
+{
+	"name": "asbackend",
+	"version": "0.0.1",
+	"description": "Backend para le web personal",
+	"main": "index.js",
+	"author": "Andrés Salgado",
+	"license": "MIT",
+	"dependencies": {
+		"bcrypt-nodejs": "^0.0.3",
+		"bcryptjs": "^2.4.3",
+		"body-parser": "^1.19.0",
+		"connect-multiparty": "^2.2.0",
+		"express": "^4.17.1",
+		"jwt-simple": "^0.5.6",
+		"moment": "^2.25.3",
+		"mongoose": "^5.9.12"
+	}
+}
